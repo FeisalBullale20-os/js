@@ -176,5 +176,74 @@ if (marks >=80 && marks <=99){
     console.log("you have failed please try again")
 }
 
+// functios
+
+// function => a block of code that performs certain task
+function hellow(){
+    console.log("hellow feisal");
 
 
+}
+hellow();
+
+function greet(name){
+
+    console.log("hi"  + name);
+}
+greet("feisal")
+
+
+function add(a, b){
+    console.log(a + b);
+
+
+}
+add(25,30);
+
+function checkNumber(number){
+    if(number % 2 === 0){
+        console.log("is even")
+
+
+    }else{
+        console.log("is an odd number")
+    }
+
+
+}
+checkNumber(4);
+checkNumber(7);
+
+function checkAge(age){
+    if(age >=18){
+        console.log("You are eligible to vote")
+    }else{
+        console.log("You are still a minor")
+    }
+
+}
+checkAge(28);
+checkAge(14);
+checkAge(17);
+checkAge(19);
+
+function area(length, width){
+result = length * width
+console.log(result);
+}
+area(25, 15);
+area(10, 18);
+area(12, 23);
+area(14, 15);
+area(25, 15);
+area(10, 18);
+area(12, 23);
+area(14, 15);
+area(25, 15);
+area(10, 18);
+area(12, 23);
+area(14, 15);
+area(25, 15);
+area(10, 18);
+area(12, 23);
+area(14, 15);
