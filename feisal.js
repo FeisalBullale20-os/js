@@ -318,5 +318,50 @@ add(34,45, answer);
 // console.log(t);
 // console.log(r);
 // console.log(y);
- let numbers = [6,9,8,5];
- console.log(numbers);
+//  let numbers = [6,9,8,5];
+//  console.log(numbers);
+
+//  console.log(numbers.length);
+
+// //  indexing
+// console.log(numbers[1]);
+// console.log(numbers[3])
+
+// replacing  of array
+
+// let countries = ["kenya", "somalia", "togo"];
+
+
+
+// // adding to an array at the emd 
+// // push
+//  countries .push() = "tanzania";
+// console.log(countries);
+// let countries = ["kenya", "somalia", "togo"];
+
+// // Adding to an array at the end
+// // push()
+// countries.push("uganda");
+
+// console.log(countries);
+
+
+// countries .pop();
+// console.log(countries)
+
+
+// countries .unshift("chad");
+// console.log(countries)
+
+// countries.shift();
+// console.log(countries);
+
+// console.log(countries[2])
+
+
+
+
+
+
+
+
